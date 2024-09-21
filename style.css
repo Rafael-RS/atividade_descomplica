@@ -1,0 +1,16 @@
+body{
+    padding: 5px;
+    background-color: #E9E9DF;
+}
+
+.center-img-txt{
+    align-items: center;
+}
+
+.img-sizing{
+    max-width: 340px;
+}
+
+.titulo-secao{
+    margin-left: 15px;
+}
